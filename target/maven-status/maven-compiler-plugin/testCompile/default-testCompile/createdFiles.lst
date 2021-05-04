@@ -1,0 +1,5 @@
+com\testBase\TestBase.class
+com\utilities\ExcelUtility.class
+com\pages\WPages.class
+com\testCase\TestCase_W.class
+com\utilities\Reporting.class

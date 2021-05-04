@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[INPUT dresses]]>
+    </line>
+    <line>
+      <![CDATA[Mint Green Crop Top-Gilet-Pants Set]]>
+    </line>
+    <line>
+      <![CDATA[Navy Blue Kurta-Culottes-Drape Set]]>
+    </line>
+    <line>
+      <![CDATA[Smoke Green Mix Print Paneled Dress]]>
+    </line>
+    <line>
+      <![CDATA[Soft Multicolored Printed Crop Top-Wrapped Skirt Set]]>
+    </line>
+    <line>
+      <![CDATA[Blue Embroidered Yoke Tiered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Long Length Gathered Volume Dress]]>
+    </line>
+    <line>
+      <![CDATA[Red Flared Dress in Hand Block Print]]>
+    </line>
+    <line>
+      <![CDATA[Soft Multicolored Buti Print Kurta-Block Print Straight Pants Set]]>
+    </line>
+    <line>
+      <![CDATA[Light Green Short Kurta-Light Green Sharara-Dupatta Set]]>
+    </line>
+    <line>
+      <![CDATA[Grey Round Neck Festive Dress]]>
+    </line>
+    <line>
+      <![CDATA[Dusty Orange Tiered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Maroon Round Neck Kurta Set]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Printed Set]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Mandarin Neck Embroidered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Gathered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Blue To Yellow Ombre Dress]]>
+    </line>
+    <line>
+      <![CDATA[Green Round Neck Printed Set]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Embroidered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Dark Blue Sleeveless Y/D Dress]]>
+    </line>
+    <line>
+      <![CDATA[Green Collar Neck Printed Kurta Set]]>
+    </line>
+    <line>
+      <![CDATA[Pink Mandarin Neck Pop Set]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Light festive Set]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Natural Flex Schiffli Border Dress]]>
+    </line>
+    <line>
+      <![CDATA[Yellow Round Neck Festive Dress]]>
+    </line>
+    <line>
+      <![CDATA[Blue Mandarin Neck Embroidered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Gold Round Neck Yarn-dyed Set]]>
+    </line>
+    <line>
+      <![CDATA[Black And White Printed Sheath Dress]]>
+    </line>
+    <line>
+      <![CDATA[Black Multicolored Stripe Printed Dress]]>
+    </line>
+    <line>
+      <![CDATA[Light Blue Sheath Dress]]>
+    </line>
+    <line>
+      <![CDATA[Red Floral Print Gathered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Blue Mandarin Neck Embroidered Dress]]>
+    </line>
+    <line>
+      <![CDATA[Aspen Green Organza Dress]]>
+    </line>
+    <line>
+      <![CDATA[INPUT tops]]>
+    </line>
+    <line>
+      <![CDATA[Light Blue Mandarin Collar Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Peplum Flared Top]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Peplum Top]]>
+    </line>
+    <line>
+      <![CDATA[Green Round Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Tiered Top]]>
+    </line>
+    <line>
+      <![CDATA[Grey Mandarin Neck Tassel Top]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Blue Mandarin Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Brown Mandarin Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Navy Blue Printed Shirt Top]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Checks Flared Top]]>
+    </line>
+    <line>
+      <![CDATA[Dark Blue Mandarin Collar Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Gold Round Neck Crop Top]]>
+    </line>
+    <line>
+      <![CDATA[Black Polka Dobby Crop Top]]>
+    </line>
+    <line>
+      <![CDATA[White Mandarin Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Green Solid Mandarin Collar Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Embroidered Crop Top]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Tie-up Top]]>
+    </line>
+    <line>
+      <![CDATA[Pink Printed Full Sleeve Top]]>
+    </line>
+    <line>
+      <![CDATA[Black Round Neck Tie-Up Top]]>
+    </line>
+    <line>
+      <![CDATA[Green Round Neck Crop Top]]>
+    </line>
+    <line>
+      <![CDATA[White Round Neck Top]]>
+    </line>
+    <line>
+      <![CDATA[Golden Round Neck Solid Sleeveless Festive Top]]>
+    </line>
+    <line>
+      <![CDATA[Peach Round Neck Crop Top]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Mandarin Neck Gathered Top]]>
+    </line>
+    <line>
+      <![CDATA[Ecru Open Front Layered Top]]>
+    </line>
+    <line>
+      <![CDATA[Blue Mandarin Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Silver Sequined Top]]>
+    </line>
+    <line>
+      <![CDATA[Blue Round Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[Pink Round Neck Sleeveless Top]]>
+    </line>
+    <line>
+      <![CDATA[Yellow V Neck Printed Top]]>
+    </line>
+    <line>
+      <![CDATA[No Item Found]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47784" started-at="2021-05-04T04:39:45Z" finished-at="2021-05-04T04:40:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47784" started-at="2021-05-04T04:39:45Z" finished-at="2021-05-04T04:40:33Z">
+      <class name="com.testCase.TestCase_W">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testCase.TestCase_W@1c3a4799]" name="setup" is-config="true" duration-ms="17012" started-at="2021-05-04T04:39:45Z" finished-at="2021-05-04T04:40:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://wforwoman.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getItems(java.lang.String)[pri:0, instance:com.testCase.TestCase_W@1c3a4799]" name="getItems" duration-ms="10259" started-at="2021-05-04T04:40:05Z" data-provider="getData" finished-at="2021-05-04T04:40:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dresses]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[INPUT dresses]]>
+            </line>
+            <line>
+              <![CDATA[Mint Green Crop Top-Gilet-Pants Set]]>
+            </line>
+            <line>
+              <![CDATA[Navy Blue Kurta-Culottes-Drape Set]]>
+            </line>
+            <line>
+              <![CDATA[Smoke Green Mix Print Paneled Dress]]>
+            </line>
+            <line>
+              <![CDATA[Soft Multicolored Printed Crop Top-Wrapped Skirt Set]]>
+            </line>
+            <line>
+              <![CDATA[Blue Embroidered Yoke Tiered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Long Length Gathered Volume Dress]]>
+            </line>
+            <line>
+              <![CDATA[Red Flared Dress in Hand Block Print]]>
+            </line>
+            <line>
+              <![CDATA[Soft Multicolored Buti Print Kurta-Block Print Straight Pants Set]]>
+            </line>
+            <line>
+              <![CDATA[Light Green Short Kurta-Light Green Sharara-Dupatta Set]]>
+            </line>
+            <line>
+              <![CDATA[Grey Round Neck Festive Dress]]>
+            </line>
+            <line>
+              <![CDATA[Dusty Orange Tiered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Maroon Round Neck Kurta Set]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Printed Set]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Mandarin Neck Embroidered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Gathered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Blue To Yellow Ombre Dress]]>
+            </line>
+            <line>
+              <![CDATA[Green Round Neck Printed Set]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Embroidered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Dark Blue Sleeveless Y/D Dress]]>
+            </line>
+            <line>
+              <![CDATA[Green Collar Neck Printed Kurta Set]]>
+            </line>
+            <line>
+              <![CDATA[Pink Mandarin Neck Pop Set]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Light festive Set]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Natural Flex Schiffli Border Dress]]>
+            </line>
+            <line>
+              <![CDATA[Yellow Round Neck Festive Dress]]>
+            </line>
+            <line>
+              <![CDATA[Blue Mandarin Neck Embroidered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Gold Round Neck Yarn-dyed Set]]>
+            </line>
+            <line>
+              <![CDATA[Black And White Printed Sheath Dress]]>
+            </line>
+            <line>
+              <![CDATA[Black Multicolored Stripe Printed Dress]]>
+            </line>
+            <line>
+              <![CDATA[Light Blue Sheath Dress]]>
+            </line>
+            <line>
+              <![CDATA[Red Floral Print Gathered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Blue Mandarin Neck Embroidered Dress]]>
+            </line>
+            <line>
+              <![CDATA[Aspen Green Organza Dress]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getItems -->
+        <test-method status="PASS" signature="getItems(java.lang.String)[pri:0, instance:com.testCase.TestCase_W@1c3a4799]" name="getItems" duration-ms="9077" started-at="2021-05-04T04:40:16Z" data-provider="getData" finished-at="2021-05-04T04:40:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tops]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[INPUT tops]]>
+            </line>
+            <line>
+              <![CDATA[Light Blue Mandarin Collar Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Peplum Flared Top]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Peplum Top]]>
+            </line>
+            <line>
+              <![CDATA[Green Round Neck Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Tiered Top]]>
+            </line>
+            <line>
+              <![CDATA[Grey Mandarin Neck Tassel Top]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Blue Mandarin Neck Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Brown Mandarin Neck Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Navy Blue Printed Shirt Top]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Checks Flared Top]]>
+            </line>
+            <line>
+              <![CDATA[Dark Blue Mandarin Collar Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Gold Round Neck Crop Top]]>
+            </line>
+            <line>
+              <![CDATA[Black Polka Dobby Crop Top]]>
+            </line>
+            <line>
+              <![CDATA[White Mandarin Neck Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Green Solid Mandarin Collar Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Embroidered Crop Top]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Tie-up Top]]>
+            </line>
+            <line>
+              <![CDATA[Pink Printed Full Sleeve Top]]>
+            </line>
+            <line>
+              <![CDATA[Black Round Neck Tie-Up Top]]>
+            </line>
+            <line>
+              <![CDATA[Green Round Neck Crop Top]]>
+            </line>
+            <line>
+              <![CDATA[White Round Neck Top]]>
+            </line>
+            <line>
+              <![CDATA[Golden Round Neck Solid Sleeveless Festive Top]]>
+            </line>
+            <line>
+              <![CDATA[Peach Round Neck Crop Top]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Mandarin Neck Gathered Top]]>
+            </line>
+            <line>
+              <![CDATA[Ecru Open Front Layered Top]]>
+            </line>
+            <line>
+              <![CDATA[Blue Mandarin Neck Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Silver Sequined Top]]>
+            </line>
+            <line>
+              <![CDATA[Blue Round Neck Printed Top]]>
+            </line>
+            <line>
+              <![CDATA[Pink Round Neck Sleeveless Top]]>
+            </line>
+            <line>
+              <![CDATA[Yellow V Neck Printed Top]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getItems -->
+        <test-method status="PASS" signature="getItems(java.lang.String)[pri:0, instance:com.testCase.TestCase_W@1c3a4799]" name="getItems" duration-ms="8004" started-at="2021-05-04T04:40:25Z" data-provider="getData" finished-at="2021-05-04T04:40:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pizza]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[No Item Found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getItems -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.testCase.TestCase_W@1c3a4799]" name="TearDown" is-config="true" duration-ms="266" started-at="2021-05-04T04:40:33Z" finished-at="2021-05-04T04:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.testCase.TestCase_W -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
